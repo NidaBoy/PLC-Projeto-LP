@@ -1,0 +1,5 @@
+var x = 4;
+var z = x * 3 * x;
+print x;
+print z;
+x

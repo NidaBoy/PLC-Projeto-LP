@@ -1,0 +1,6 @@
+var pi = 3;
+var r = 1;
+var perimetro = 2 * pi * r;
+
+print perimetro;
+perimetro

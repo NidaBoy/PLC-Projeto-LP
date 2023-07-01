@@ -1,0 +1,36 @@
+var x0 = 146;
+var x1 = 145 * x0;
+var x2 = 68 * x0;
+var x3 = 265 * x0;
+var x4 = 269 * x0;
+var x5 = 77 * x1;
+var x6 = 253 * x1;
+var x7 = 72 * x1;
+var x8 = 117 * x1;
+var x9 = 213 * x2;
+var x10 = 184 * x2;
+var x11 = 263 * x2;
+var x12 = 186 * x2;
+var x13 = 258 * x2;
+var x14 = 297 * x3;
+var x15 = 50 * x3;
+var x16 = 277 * x3;
+var x17 = 101 * x3;
+var x18 = 176 * x4;
+var x19 = 246 * x4;
+var x20 = 195 * x5;
+var x21 = 166 * x6;
+var x22 = 252 * x7;
+var x23 = 132 * x8;
+var x24 = 278 * x9;
+var x25 = 237 * x10;
+var x26 = x0 + x1 + x2 + x3 + x4 + x5 + x6 + x7 + x8 + x9 + x10 + x24 + x25;
+
+print x26;
+x26; 
+hd(([Int] []));
+tl(([Int] []));
+146::([Int] []);
+ise(([Int] []));
+-1;
+!true
